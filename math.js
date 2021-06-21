@@ -11,9 +11,9 @@ exports.mul = function (a, b) {
     return a * b;
 };
 
-export var x = 4;
-
-export function adds(a, b) {
-    return a + b;
-
-}
+// export var x = 4;
+//
+// export function adds(a, b) {
+//     return a + b;
+//
+// }
